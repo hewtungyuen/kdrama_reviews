@@ -1,6 +1,6 @@
 # Korean drama sentiment analysis with web scraping and NLP
 
-We aim to analyse the sentiment of korean drama reviews with the use of web scraping as well as natural language processing. 
+The aim of this project is to analyse the sentiment of korean drama reviews with the use of web scraping as well as natural language processing. 
 I will be analysing the drama The King: Eternal Monarch. 
 This drama is one of the most anticipated series in the first half of 2020, with renowned cast and a large production budget.
 
